@@ -39,6 +39,9 @@ Status      : Building, Learning, Breaking, Fixing
 <p align="center">
    
   <img height="180em" src="https://streak-stats.demolab.com?user=Aniket2241" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aniket2241?theme=dark&font=Karma&ext=heatmap" />
+</p>
   <img src="https://raw.githubusercontent.com/Aniket2241/Aniket2241/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
