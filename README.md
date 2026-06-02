@@ -32,16 +32,17 @@ Status      : Building, Learning, Breaking, Fixing
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2241&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-   
-  <img height="180em" src="https://streak-stats.demolab.com?user=Aniket2241" />
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aniket2241?theme=dark&font=Karma&ext=heatmap" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Aniket2241&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://leetcard.jacoblin.cool/aniket2241?theme=dark&font=Karma" />
 </p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Aniket2241/Aniket2241/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
