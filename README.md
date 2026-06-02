@@ -42,11 +42,10 @@ Building, learning, and improving every day - Driven by curiosity and a desire t
 ---
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket2241&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket2241&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
+   
+  <img height="180em" src="https://streak-stats.demolab.com?user=Aniket2241" />
   <img src="https://raw.githubusercontent.com/Aniket2241/Aniket2241/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
