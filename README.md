@@ -1,24 +1,17 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDduYzU2MzQ1dTZjOGg4YXBocm96cW52YzEwNXVvNTE1YnFlMmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
-</p>
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDduYzU2MzQ1dTZjOGg4YXBocm96cW52YzEwNXVvNTE1YnFlMmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="170px"/> </p>
 
 # > whoami
 
 ```bash
 Name        : Aniket Bhardwaj
-Role        : Backend Developer
-Location    : India
-Focus        : Web Development • Machine Learning • Federated Learning
+Role        : Software Engineer
+Focus        : Web Development • Machine Learning
 Status      : Building, Learning, Breaking, Fixing
 ```
 
 ## ⚡ About Me
 
-- 🔭 Building scalable backend systems with Node.js & Express
-- 🌱 Exploring Machine Learning, Federated Learning & AI systems
-- 💻 Passionate about solving real-world problems through code
-- 🚀 Open Source Contributor & Continuous Learner
-- 🎯 Interested in Cybersecurity, System Design & Distributed Systems
+Building, learning, and improving every day - Driven by curiosity and a desire to build impactful solutions, I enjoy transforming ideas into real-world applications. My goal is to build a meaningful career while working alongside passionate individuals, continuously learning, adapting, and creating technology that solves real problems.
 
 ---
 
@@ -38,6 +31,7 @@ Status      : Building, Learning, Breaking, Fixing
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ### Tools
@@ -68,8 +62,8 @@ Status      : Building, Learning, Breaking, Fixing
 ```bash
 > Current Mission
 
-[+] Contributing to Open Source
-[+] Building Full-Stack Applications
+[+] Leveraging AI to solve real-world problems
 [+] Learning Advanced ML & Federated Learning
-[+] Exploring Cybersecurity
+[+] Expanding knowledge across modern technologies
+[+] Continuously improving as a software engineer
 ```
