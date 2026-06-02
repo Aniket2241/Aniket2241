@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDduYzU2MzQ1dTZjOGg4YXBocm96cW52YzEwNXVvNTE1YnFlMmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="170px"/> </p>
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDduYzU2MzQ1dTZjOGg4YXBocm96cW52YzEwNXVvNTE1YnFlMmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="80%" height="230px"/> </p>
 
 # > whoami
 
