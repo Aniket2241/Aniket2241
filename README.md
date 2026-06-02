@@ -38,8 +38,8 @@ Status      : Building, Learning, Breaking, Fixing
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Aniket2241&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://leetcard.jacoblin.cool/aniket2241?theme=dark&font=Karma" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Aniket2241&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/aniket2241?theme=dark&font=Karma" />
 </p>
 
 <p align="center">
